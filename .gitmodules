@@ -1,0 +1,3 @@
+[submodule "fista-spec-kit-clone"]
+	path = fista-spec-kit-clone
+	url = https://github.com/fistasolutions/fista-spec-kit.git
